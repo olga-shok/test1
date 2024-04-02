@@ -1,3 +1,4 @@
 hello i'm lerning git!
 changes in dev
 report 1
+add new line
