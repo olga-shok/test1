@@ -1,2 +1,2 @@
 hello i'm lerning git!
-changes in master
+changes in dev
