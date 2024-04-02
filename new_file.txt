@@ -1,1 +1,2 @@
-hello i'm lerning git
+hello i'm lerning git!
+changes in master
